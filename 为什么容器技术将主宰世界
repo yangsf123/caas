@@ -1,0 +1,11 @@
+## 原文：https://blog.csdn.net/gaoyingju/article/details/49616295
+
+为什么容器技术（Docker）如此诱人？
+  资源独立、隔离
+    资源隔离是云计算平台的最基本需求
+  环境的一致性
+  轻量化 
+  Build Once, Run Everywhere
+  
+容器技术是整个互联网的协同创新和原有技术的组合创新
+  
